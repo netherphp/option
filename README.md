@@ -1,0 +1,4 @@
+option
+======
+
+Global settings management.
