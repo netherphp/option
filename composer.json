@@ -1,0 +1,17 @@
+{
+	"name":"netherphp/option",
+	"description":"A global settings manager",
+	"keywords":["php","options"],
+	"license":"BSD-2-Clause",
+	"authors":[
+		{ "name":"Bob Majdak Jr","email":"bob@majdak.net","homepage":"http://majdak.net","role":"developer" }
+	],
+	"require":{
+		"php":">=5.4.0"
+	},
+	"autoload":{
+		"psr-0": {
+			"Nether\\": "src/"
+		}
+	}
+}
